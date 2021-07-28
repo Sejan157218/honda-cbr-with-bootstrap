@@ -1,0 +1,25 @@
+/* Header */
+.header{
+    background-color: #264653;
+}
+.text-c-white{
+    color:#FFFFFF!important ;
+}
+.header-text-h1{
+    color: #FFFFFF;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.header-text-p{
+    color: #E0E0E0;
+}
+.header-botton{
+    background-color: #E76F51;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+.purchase-back-color{
+    background-color: #0a293570;
+    
+
+}
