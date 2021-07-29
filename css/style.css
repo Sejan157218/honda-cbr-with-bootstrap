@@ -118,6 +118,18 @@
     height: .25rem!important;
     color: #d0201b;
 }
+.videos-h1{
+    color:#d0201b ;
+}
+
+/* footer */
+.footer{
+    background-color: #0B0D17;
+    color: #FFFFFF;
+}
+.footer-ul-a{
+    padding-left: 0;
+}
 
 
 
